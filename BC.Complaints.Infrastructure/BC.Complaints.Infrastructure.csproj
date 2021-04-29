@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BC.Complaints.Application\BC.Complaints.Application.csproj" />
+    <ProjectReference Include="..\BC.Complaints.Common\BC.Complaints.Common.csproj" />
+  </ItemGroup>
+
+</Project>
